@@ -1,0 +1,1 @@
+print("are you above 18")
